@@ -2,8 +2,6 @@
 
 Project Title:  COVID-19s impact to the Airline Industry
 
-Team Members: Connor, Johnathan, Brant, and Radha
-
 Project Description/Outline:
 •	Compare the number of positive reported COVID-19 cases from March 21st through April 17th to the Airline Industry’s number of scheduled and tracked flights.
 •	Pull CSV data sets to create readable data frames and merge together to use in comparison analysis
