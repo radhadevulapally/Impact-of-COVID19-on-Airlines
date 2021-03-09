@@ -8,11 +8,5 @@ Project Description/Outline:
 •	Use Matplotlib to create visualizations to compare findings and show COVID-19s impact to the Airline Industry
 •	Summarize major findings including a heading for each question answered with a short description of findings.
 
-Research questions to answer:
-•	How is the COVID-19 virus affecting the Airline Industry?
-•	How has the COVID-19 virus affected North Carolina?
-•	How has the COVID-19 virus affected other areas?
-•	Does the COVID-19 virus have a stronger impact in certain areas?
 
 Data sets to be used: Bureau of labor statistics, CDC, National Institute of Health and diseases, and Flight Radar.
-Rough Breakdown of Tasks:  Each team member will attribute to data collection, formatting and graphing of datasets used. Once completed team members will analyze findings and present to group for overall analysis. Team members will answer questions posed and explain the how they made such realizations. Finally conclude all information to present to class in group form.
